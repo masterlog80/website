@@ -6,7 +6,7 @@ The personal landing page for [salvetti.info](https://www.salvetti.info), hosted
 
 ## Features
 
-- 🌙 **Dark theme** – deep navy gradient background with a glass-effect card
+- 🌓 Light/Dark theme toggle – modern glass-effect card with theme preference saved in the browser
 - ✨ **Fade-in animation** – the card fades in on load via a CSS transition triggered by JavaScript
 - 📱 **Responsive** – centred layout that works on desktop and mobile
 - 🚀 **Zero dependencies** – plain HTML, CSS, and vanilla JavaScript; no build step required
