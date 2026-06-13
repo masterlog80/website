@@ -43,10 +43,10 @@ python3 -m http.server 8080
 ---
 
 ## Screenshots
-# Old
+### Old
 <img width="2938" height="1598" alt="salvetti.info screenshot" src="https://github.com/user-attachments/assets/33b1a850-4d64-431d-92b3-bf7bcdb505c1" />
 
-# New
+### New
 <img width="1918" height="1025" alt="image" src="https://github.com/user-attachments/assets/b61df491-8633-4005-a4a7-358c4413a8f6" />
 
 ---
