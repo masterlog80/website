@@ -142,7 +142,7 @@ h1 {
   background: var(--accent);
 
   transition:
-    transform 0.2s ease;
+    transform 2s ease;
 }
 
 .actions a:hover {
