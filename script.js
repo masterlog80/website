@@ -1,3 +1,5 @@
+console.log("VERSION 2026-06-13 TEST");
+
 window.addEventListener("DOMContentLoaded", () => {
   const card = document.querySelector(".card");
   const toggle = document.getElementById("theme-toggle");
