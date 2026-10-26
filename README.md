@@ -42,6 +42,8 @@ python3 -m http.server 8080
 
 ---
 
+---
+
 ## Screenshots
 ### Old
 <img width="2938" height="1598" alt="salvetti.info screenshot" src="https://github.com/user-attachments/assets/33b1a850-4d64-431d-92b3-bf7bcdb505c1" />
